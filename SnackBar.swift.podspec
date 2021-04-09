@@ -16,10 +16,10 @@ Pod::Spec.new do |s|
 
                        DESC
 
-  s.homepage         = 'https://github.com/ahmedAlmasri/SnackBar.swift'
+  s.homepage         = 'https://github.com/meganeura/SnackBar.swift'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ahmad Almasri' => 'ahmed.almasri@ymail.com' }
-  s.source           = { :git => 'https://github.com/ahmedAlmasri/SnackBar.swift.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/meganeura/SnackBar.swift.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
   s.swift_version    = '5.0'
