@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'SnackBar.swift'
+  s.name             = 'MNSnackBar.swift'
   s.version          = '0.1.0'
   s.summary          = 'SnackBar provide brief feedback about an operation through a message at the bottom of the screen.'
 
